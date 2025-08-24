@@ -1,8 +1,7 @@
 <h1 align="center">Hi World, I'm Shariar Hossain Tanvir 👋</h1>
 <h3 align="center">CSE Student at Prime University | Problem Solver | Tech Explorer</h3>
 
-<img align="right" width="400" height="428" alt="image" src="https://github.com/user-attachments/assets/85b556a3-8992-4a0b-9bc1-b50e054f6150" />
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 ---
 
 ### 🌱 About Me  
