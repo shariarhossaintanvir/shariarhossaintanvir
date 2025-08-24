@@ -11,14 +11,12 @@
 
 <h3 align="center">📊 GitHub Analytics</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shariarhossaintanvir&show_icons=true&locale=en" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariarhossaintanvir" alt="GitHub Streak" height="180em"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=shariarhossaintanvir&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shariarhossaintanvir&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shariarhossaintanvir&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariarhossaintanvir&layout=compact&langs_count=8&theme=default" alt="Most Used Languages" height="180em"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
