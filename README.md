@@ -1,4 +1,4 @@
-![My Gif Logo](https://github.com/shariarhossaintanvir/shariarhossaintanvir/blob/main/Gif.gif)
+![My Gif Logo](https://github.com/shariarhossaintanvir/shariarhossaintanvir/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi World, I'm Shariar Hossain Tanvir 👋</h1>
 <h3 align="center">CSE Student at Prime University | Problem Solver | Tech Explorer</h3>
