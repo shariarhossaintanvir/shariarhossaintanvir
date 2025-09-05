@@ -1,8 +1,8 @@
 ![My Gif Logo](https://github.com/shariarhossaintanvir/shariarhossaintanvir/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
-
+---
 <h1 align="center">Hi World, I'm Shariar Hossain Tanvir 👋</h1>
 <h3 align="center">CSE Student at Prime University | Problem Solver | Tech Explorer</h3>
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=Always+Learning;Never+Giving+Up;Future+Engineer" alt="Typing SVG" />
 </p>
