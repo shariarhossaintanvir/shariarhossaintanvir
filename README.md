@@ -11,7 +11,7 @@
 
 
 ### 🌱 About Me  
-- Currently learning **Python, C++ and C**  
+- Currently learning **Python, C++, Java and C**  
 - 👨‍💻 Check out my projects: [My Portfolio](https://sites.google.com/view/shariar-hossain-tanvir/)  
 - 📫 Reach me at: **bangboombro629@gmail.com**
 
