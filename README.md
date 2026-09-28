@@ -27,25 +27,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shariarhossaintanvir&show_icons=true&hide_border=true&count_private=false&include_all_commits=false" 
-    height="170"
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=shariarhossaintanvir&hide_border=true" 
-    height="170"
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shariarhossaintanvir&theme=github-dark"
+    alt="GitHub Streak Stats"
   />
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariarhossaintanvir&layout=compact&hide_border=true&count_private=false" 
-    height="170"
-  />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
